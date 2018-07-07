@@ -2,7 +2,7 @@
 
 ## Why we need this project?
 
-We know that this problem is spreading fast and needs to be Limited as New York time has stated "AS fake news bread slice more readers shrug at the truth".
+We know that this problem is spreading fast and needs to be Limited as New York time has stated *"As fake news bread slice more readers shrug at the truth"*.
 Many research paper has been published in this area,As the readers come across many fake news when they read a real news they believe that it is also a fake news.
 well detecting a fake news is not an easy task as that can be many definitions of a fake news, but is some extent it is possible using some machine learning models we will also be needing to use NLP techniques to make computer understand the news as there is a waste material of text involved.
 
